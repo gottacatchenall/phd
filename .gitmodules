@@ -1,0 +1,6 @@
+[submodule "report_year1"]
+	path = report_year1
+	url = https://github.com/gottacatchenall/report_year1
+[submodule "dissertation_prospectus"]
+	path = dissertation_prospectus
+	url = https://github.com/gottacatchenall/dissertation_prospectus
